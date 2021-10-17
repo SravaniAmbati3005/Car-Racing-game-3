@@ -1,0 +1,21 @@
+Timer : the timer will start as soon as 2 players join .
+        By the end of the timer we should start the game .
+
+Extra cars : We can choose the cars we like from diffrent cars.
+
+Create a game : If a player clicks on this button he should recive a secret code to share with other
+                players.After he clicks on next, He should appear in the game area.
+
+Secret code : Every player will get a special code when they press on "Create a game" option.
+
+Join a Game : When players press this button they should enter the secret code given by the other
+              players . After they enter the code . They should be able to join the lobby of 
+              the player .Who created the lobby.
+
+Coins : The player should get coins according to his speed.With coins he can buy diffrent model
+        Cars.
+
+Work : Crop all the images and get more cars.Resize obstacles.Spawn the obstacles. Create left 
+       and right arrow.Create a backdrop for thr form.
+
+65 * 123 cars size
